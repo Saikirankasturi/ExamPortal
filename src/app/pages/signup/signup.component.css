@@ -1,0 +1,9 @@
+img{
+    height: 6.5rem;
+    width: 6.5rem;
+    border-radius: 50%;
+    border: 0.1rem solid black;
+}
+.full-width{
+    width: 100%;
+}
